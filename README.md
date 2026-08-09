@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on: Credential Harvesting Detection System<br>🤝 I’m looking to collaborate on: Web development & cybersecurity projects<br>🌱 I’m currently learning: Cybersecurity concepts & advanced frontend<br>💬 Ask me about: Chrome extensions, UI/UX, and beginner security topics<br>⚡ Fun fact: I enjoy turning real-world problems into working products
+
+Hi, I'm Pragya Agarwal, a final-year B.Tech CSE student specializing in Cybersecurity.
+
+- I'm interested in Cybersecurity, Backend Development, and Cloud Security.
+- I enjoy building practical projects that solve real-world problems.
+- Currently exploring secure backend systems, APIs, cloud security, and network security.
+- Hands-on experience with Java, Python, JavaScript, React, FastAPI, and AWS.
+- Currently working on cybersecurity projects involving threat detection and security monitoring.
+- Open to collaborating on cybersecurity, backend, and software engineering projects.
 
 
 ## 🌐 Socials:
